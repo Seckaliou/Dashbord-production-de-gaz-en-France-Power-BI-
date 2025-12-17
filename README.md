@@ -21,4 +21,4 @@ Fournir aux décideurs et analystes un outil visuel et intuitif pour :
 
 ---
 
-Lien vers la video : https://github.com/Seckaliou/Dashbord-production-de-gaz-en-France-Power-BI-/commit/d8714a92adf28177f2497f38de03399283ec1f53#diff-03485f89c4d2cdcb4c8baf237e06e2a3686e383cf0c3a8648bdd3e6e34242c1d
+Lien vers la video : https://github.com/Seckaliou/Dashbord-production-de-gaz-en-France-Power-BI-/blob/main/dashboard-demo.mp4
